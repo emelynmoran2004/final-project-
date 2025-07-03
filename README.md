@@ -7,7 +7,7 @@ import.util.scanner;
     static string[] soldout=new string [100]; //fixed-sixe array for simplicity 
     static int soldOutCount = 0;
     public static viod main (String[] args) {
-        lodDate();
+        loadDate();
 
         Scanner scanner= new Scanner ( System.in);
         int choice;
